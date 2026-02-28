@@ -1,7 +1,7 @@
 variable "labelPrefix" {
   description = "Your college username."
   type        = string
-  default = "pate0323"
+  
 }
 
 variable "region" {
